@@ -9,7 +9,7 @@
 
 - 📄 My experience can be found [on my resume](https://adambaird.ca/resume).
 
-- 🔭 My current sideprojects are [streamkit](https://streamkit.fly.dev). 
+- 🔭 My current sideprojects are [streamkit](https://streamkit.fly.dev), and about a half dozen ML/AI-based prototypes. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
