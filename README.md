@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Baird</h1>
 <h3 align="center">Creative Technologist & Photographer</h3>
 
-- 💬 Ask me about **Technology, Cybersecurity, DevOps, Systems & Software, Startups, Whiskey**.
+- 💬 Ask me about **Technology, Cybersecurity, DevOps, Systems & Software, Startups, Whiskey, Event Planning, Travel, Photography, Media Production and more. **.
 
 - 📫 Reach me at **hey@adambaird.ca** or on social media.
 
