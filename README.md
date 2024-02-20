@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adam Baird</h1>
 <h3 align="center">Creative Technologist & Photographer</h3>
 
-- 🔭 I’m currently working on [streamkit](streamkit.fly.dev)
-
-- 🌱 I’m currently learning **React, Polaris, Prisma**.
-
-- 💬 Ask me about **Technology, Security, DevOps, Systems & Software, Startups, Whiskey**.
+- 💬 Ask me about **Technology, Cybersecurity, DevOps, Systems & Software, Startups, Whiskey**.
 
 - 📫 Reach me at **hey@adambaird.ca** or on social media.
 
 - 🖼️ My photos can be found on [my photo blog](https://adambaird.ca/photos).
 
 - 📄 My experience can be found [on my resume](https://adambaird.ca/resume).
+
+- 🔭 My current sideprojects are [streamkit](https://streamkit.fly.dev). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
