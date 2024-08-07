@@ -8,9 +8,9 @@
 
 - 📄 My work experience can be found [on my resume](https://adambaird.ca/resume).
 
-- 🖼️ My photos can be found on [my photo blog](https://adambaird.ca/photos).
+- 🖼️ My photos can be found on [my photo blog](https://adambaird.ca/blog/).
 
-- 🔭 My current sideprojects are [streamkit](https://streamkit.fly.dev), and about a half dozen ML/AI-based prototypes. 
+- 🔭 My current sideprojects are [streamkit](https://streamkit.fly.dev), some steam games, and about a half dozen ML/AI-based prototypes. 
 
 <h3 align="left">Connect with me:</h3>
 
