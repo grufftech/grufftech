@@ -23,10 +23,6 @@
 <a href="https://instagram.com/grufftech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grufftech" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">all of them.</p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/grufftech"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="grufftech" /></a></p><br><br>
 
