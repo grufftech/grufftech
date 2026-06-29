@@ -1,4 +1,4 @@
-<h1 align="center">Hello Internet 👋,</h1>
+<h1 align="center">Hello Internet 👋</h1>
 <h3 align="center">I'm Adam Baird -- Creative Technologist & Photographer based in Vancouver, BC.</h3>
 
 
