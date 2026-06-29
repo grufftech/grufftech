@@ -28,4 +28,4 @@
 
 
 
-![image](https://gruff.games/Shuba_duck.webp)
+![image](https://cdn.adambaird.ca/gruff.gif)
