@@ -19,7 +19,7 @@
 <a href="https://twitter.com/grufftech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grufftech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/grufftech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grufftech" height="30" width="40" /></a>
 <a href="https://serverfault.com/users/11786/grufftech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="grufftech" height="30" width="40" /></a>
-<a href="https://fb.com/adambaird.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grufftech" height="30" width="40" /></a>
+<a href="https://fb.com/grufftech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grufftech" height="30" width="40" /></a>
 <a href="https://instagram.com/grufftech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grufftech" height="30" width="40" /></a>
 </p>
 <br><br>
